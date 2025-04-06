@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://fjrrepo-portfolio.vercel.app" target="_blank">
+  <a href="https://fajar-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
   <a href="https://www.youtube.com/@ifajaarrr" target="_blank">
